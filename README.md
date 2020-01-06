@@ -7,10 +7,10 @@ Data Representation Project
   
   Requirements to run this file: 
   Two packages to be installed: 
-      (a) virtualenv to allow multiple Python environments to exist beside each other
+      * virtualenv to allow multiple Python environments to exist beside each other
         Code : pip install virtualenv
         
-      (b) Flask itself.
+      * Flask itself.
         Code : pip install Flask
         
         
