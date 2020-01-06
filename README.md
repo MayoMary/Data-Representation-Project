@@ -14,6 +14,7 @@ Data Representation Project
   Code : pip install Flask   
         
   2. RESTAPI: See file RESTAPI.
+  3. One database table. See file DBforProject.sql
   
 ** B. Third Party API **
   1. Linking a third parry API. I have chosen to link to ebay https://any-api.com/ebay_com/buy_browse/docs/API_Description
