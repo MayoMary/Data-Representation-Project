@@ -19,10 +19,10 @@ Data Representation Project
   1. Linking a third parry API. I have chosen to link to ebay https://any-api.com/ebay_com/buy_browse/docs/API_Description
   
   Requirement to run the file.
-  In command prompt, Type python ThirdPartyAPI.py.
-  T
+  * In command prompt, Type python ThirdPartyAPI.py.
+  
   
   3. Allowing user to view the information. he output of the data from ebay is intended to be stored in the newly created file titled handbagreport.
-  For specific requests, then see file : ThirdPartyAPIReport.py which is reuqesting information for one type of bad - Gucci.
+  For specific requests, then see file : ThirdPartyAPIReport.py which is reuqesting information for one type of bag - Gucci.
   
      
